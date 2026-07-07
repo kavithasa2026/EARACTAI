@@ -1,0 +1,12 @@
+streamlit
+faiss-cpu
+sentence-transformers
+transformers
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+nltk
+rouge-score
+sentencepiece
